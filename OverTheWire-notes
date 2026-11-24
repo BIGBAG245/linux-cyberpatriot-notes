@@ -1,0 +1,2 @@
+cat <file> - it displays the contents of a small file directly in the terminal
+less <file> - it opens a large file on another screen so that i may scroll throught it safely and to close use q
